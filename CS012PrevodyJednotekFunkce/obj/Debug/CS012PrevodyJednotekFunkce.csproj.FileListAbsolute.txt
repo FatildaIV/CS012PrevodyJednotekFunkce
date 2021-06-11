@@ -1,0 +1,10 @@
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS012PrevodyJednotekFunkce\CS012PrevodyJednotekFunkce\bin\Debug\CS012PrevodyJednotekFunkce.exe.config
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS012PrevodyJednotekFunkce\CS012PrevodyJednotekFunkce\bin\Debug\CS012PrevodyJednotekFunkce.exe
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS012PrevodyJednotekFunkce\CS012PrevodyJednotekFunkce\bin\Debug\CS012PrevodyJednotekFunkce.pdb
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS012PrevodyJednotekFunkce\CS012PrevodyJednotekFunkce\obj\Debug\CS012PrevodyJednotekFunkce.csprojAssemblyReference.cache
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS012PrevodyJednotekFunkce\CS012PrevodyJednotekFunkce\obj\Debug\CS012PrevodyJednotekFunkce.PrevodyJednotekFunkceForm.resources
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS012PrevodyJednotekFunkce\CS012PrevodyJednotekFunkce\obj\Debug\CS012PrevodyJednotekFunkce.Properties.Resources.resources
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS012PrevodyJednotekFunkce\CS012PrevodyJednotekFunkce\obj\Debug\CS012PrevodyJednotekFunkce.csproj.GenerateResource.cache
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS012PrevodyJednotekFunkce\CS012PrevodyJednotekFunkce\obj\Debug\CS012PrevodyJednotekFunkce.csproj.CoreCompileInputs.cache
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS012PrevodyJednotekFunkce\CS012PrevodyJednotekFunkce\obj\Debug\CS012PrevodyJednotekFunkce.exe
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS012PrevodyJednotekFunkce\CS012PrevodyJednotekFunkce\obj\Debug\CS012PrevodyJednotekFunkce.pdb
